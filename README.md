@@ -3,11 +3,13 @@
 0.5 version made for 75%
 
 TODO:
-  Better HELP
-  Forward button
-  Backward button need to finish
-  find out all bugs
+-Better HELP
+-Forward button Check
+-Backward button need to finish Check
+-find out all bugs
+  
+  !!!!! If song ends automatically play next one!! TODO!!!
   
 Features into future:
-  Volume
+  Volume Check
   searching in different dir.
