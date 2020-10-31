@@ -1,6 +1,7 @@
 # Song_Generator
 
-0.5 version made for 75%
+0.5 version made
+1.0 version 25%
 
 TODO:
 -Better HELP
@@ -13,3 +14,8 @@ TODO:
 Features into future:
   Volume Check
   searching in different dir.
+  maybe could make makefile for requirements
+
+REQUIREMENTS:
+Python 3.8
+modules: OS, TKINTER, PYGAME
